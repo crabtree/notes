@@ -9,5 +9,3 @@ Use SSH service on `SSH server` to access the service running on `Targert server
 ```sh
 ssh -L 12345:192.168.100.110:8080 user@1.1.1.1:10022
 ```
-
-## SSH server not exposed to the Internet
