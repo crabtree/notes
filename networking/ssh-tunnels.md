@@ -1,6 +1,6 @@
 # SSH tunnels
 
-## SSH server exposed to the Internet
+## SSH server exposed on the Internet
 
 ![Diagram-1](./assets/ssh-tunnels-1.svg)
 
