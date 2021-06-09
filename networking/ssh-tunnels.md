@@ -9,3 +9,11 @@ Use SSH service on `SSH server` to access the service running on `Targert server
 ```sh
 ssh -L 12345:192.168.100.110:8080 user@1.1.1.1:10022
 ```
+
+## SSH SOCKS proxy
+
+Use the SSH service running on `some-ssh-server` as a SOCKS proxy.
+
+```
+ssh -D 12345 user@some-ssh-server
+```
