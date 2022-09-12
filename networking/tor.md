@@ -1,6 +1,6 @@
 # TOR
 
-# Routing LAN traffic through TOR (TOR router)
+## Routing LAN traffic through TOR (TOR router)
 
 Configuring TOR as transparent proxy with DNS.
 
@@ -18,3 +18,18 @@ iptables -t nat -A PREROUTING -i $LAN_IF -p tcp -m tcp --tcp-flags FIN,SYN,RST,A
 ```
 
 Where `$LAN_IF` is the name of the network interface connected to the local network.
+
+## Using curl with TOR SOCKS proxy
+
+File `/etc/tor/torrc`
+```
+SocksPort 9050
+```
+
+This configuration enables TOR SOCKS proxy listening on localhost port 9050.
+
+Now you can call curl with proxy option (`-x`, `--proxy`)
+
+```
+curl -x socks://localhost:9050 http://httpbin.org/ip
+```
