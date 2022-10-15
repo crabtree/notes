@@ -7,7 +7,7 @@
 | Late 2014 (Macmini7.1) | Monterey (macOS 12) |
 | Server Late 2012 (Macmini6.2) | Catalina (macOS 10.15) |
 | Late 2012 (Macmini6.1) | Catalina (macOS 10.15) |
-| Server Mid 2011 (Macmini5.3) | High Sierra (macOS 13) |
+| Server Mid 2011 (Macmini5.3) | High Sierra (macOS 10.13) |
 | Mid 2011 (Macmini5.2) | High Sierra (macOS 10.13) |
 | Mid 2011 (Macmini5.1) | High Sierra (macOS 10.13) |
 | Server Mid 2010 (Macmini4.1) | High Sierra (macOS 10.13) |
