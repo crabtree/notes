@@ -2,8 +2,8 @@
 
 |Mac mini|OS|
 |-|-|
-| Late 2020 (Macmini9.1) | Monterey (macOS 12) |
-| Late 2018 (Macmini8.1) | Monterey (macOS 12) |
+| Late 2020 (Macmini9.1) | Ventura (macOS 13) |
+| Late 2018 (Macmini8.1) | Ventura (macOS 13) |
 | Late 2014 (Macmini7.1) | Monterey (macOS 12) |
 | Server Late 2012 (Macmini6.2) | Catalina (macOS 10.15) |
 | Late 2012 (Macmini6.1) | Catalina (macOS 10.15) |
