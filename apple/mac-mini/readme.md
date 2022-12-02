@@ -48,3 +48,8 @@
 | Server Late 2009 (Macmini3.1) | yes | yes |
 | Late 2009 (Macmini3.1) | yes | yes |
 | Early 2009 (Macmini3.1) | yes | yes |
+
+### Hard disk cabels part numbers
+
+- 821-1501-A - upper disk - compatible with 2011, 2012, 2014
+- 821-1500-A - lower disk - compatible with 2011, 2012
