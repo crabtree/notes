@@ -33,3 +33,15 @@ Now you can call curl with proxy option (`-x`, `--proxy`)
 ```
 curl -x socks://localhost:9050 http://httpbin.org/ip
 ```
+
+## Resolving .onion addresses
+
+File `/etc/tor/torrc`
+```
+AutomapHostsOnResolve 1
+```
+
+### Enable .onion addresses in Firefox
+
+Firefox, by default, blocks .onion. You can override this behaviour by setting the `network.dns.blockDotOnion` to `false`
+
