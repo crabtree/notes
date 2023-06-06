@@ -4,9 +4,9 @@
 
 |Mac mini|Model|OS|Spec|
 |-|-|-|-|
-| 2023 (Mac14,3/Mac14,12) | A2686 | Ventura (macOS 13) | [link](https://support.apple.com/kb/SP891?locale=en_GB) |
-| 2020 (Macmini9,1) | A2348 | Ventura (macOS 13) | [link](https://support.apple.com/kb/SP823?locale=en_GB) |
-| 2018 (Macmini8,1) | A1993 | Ventura (macOS 13) | [link](https://support.apple.com/kb/SP782?locale=en_GB) |
+| 2023 (Mac14,3/Mac14,12) | A2686 | Sonoma (macOS 14) | [link](https://support.apple.com/kb/SP891?locale=en_GB) |
+| 2020 (Macmini9,1) | A2348 | Sonoma (macOS 14) | [link](https://support.apple.com/kb/SP823?locale=en_GB) |
+| 2018 (Macmini8,1) | A1993 | Sonoma (macOS 14) | [link](https://support.apple.com/kb/SP782?locale=en_GB) |
 | Late 2014 (Macmini7,1) | A1347 | Monterey (macOS 12) | [link](https://support.apple.com/kb/sp710?locale=en_GB) |
 | Server Late 2012 (Macmini6,2) | A1347 | Catalina (macOS 10.15) | [link](https://support.apple.com/kb/sp659?locale=en_GB) |
 | Late 2012 (Macmini6,1) | A1347 | Catalina (macOS 10.15) | [link](https://support.apple.com/kb/sp659?locale=en_GB) |
